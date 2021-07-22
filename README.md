@@ -1,4 +1,4 @@
-### Washington Oliveira Junior
+# Washington Oliveira Junior
 
 Sou graduando em Engenharia de Computação na UEFS, estas são algumas das tecnologias que costumo utilizar:
 
